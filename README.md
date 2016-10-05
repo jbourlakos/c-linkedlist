@@ -1,0 +1,1 @@
+A double-linked list implementation supporting elements of any type, using void pointers.
